@@ -30,3 +30,8 @@ ros2 run ros2_unreal_bridge pose_unreal_bridge - Cria uma ponte para enviar dado
 Para reproduzir um arquivo .bag, primeiro navegue até a pasta onde ele está localizado.
 cd /mnt/c/Users/Voris/Downloads
 ros2 bag play 08
+
+Abrir Visual Studio com os códigos WSL:
+
+cw
+code .
